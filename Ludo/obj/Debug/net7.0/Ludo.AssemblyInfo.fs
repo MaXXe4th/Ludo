@@ -14,4 +14,5 @@ open System.Reflection
 [<assembly: System.Reflection.AssemblyProductAttribute("Ludo")>]
 [<assembly: System.Reflection.AssemblyTitleAttribute("Ludo")>]
 [<assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")>]
+[<assembly: System.Reflection.AssemblyMetadataAttribute("RepositoryUrl", "https://github.com/MaXXe4th/Ludo")>]
 do()
